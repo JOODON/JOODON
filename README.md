@@ -14,19 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">🧩 Algorithm 🧩 </h3>
-<div align="center">
-  <a href="https://solved.ac/launcher37" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=launcher37" alt="Solved.ac Profile Badge" />
-  </a>
-</div>
 
-<h3 align="center">🌟 GitHub Stats 🌟 </h3>
-<div align="center">
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=JOODON&theme=gruvbox" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOODON&layout=compact&theme=gruvbox" />
-</div>
-## 🛠️ Backend Developer Requirements
+
 ## 🛠️ Backend Developer Requirements
 
 ---
@@ -65,4 +54,15 @@ Here are some ideas to get you started:
 | ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white) | **AWS EC2**: 서버 인프라 구성 및 운영 경험 |
 
 ---
+<h3 align="center">🌟 GitHub Stats 🌟 </h3>
+<div align="center">
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=JOODON&theme=gruvbox" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOODON&layout=compact&theme=gruvbox" />
+</div>
+<h3 align="center">🧩 Algorithm 🧩 </h3>
+<div align="center">
+  <a href="https://solved.ac/launcher37" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=launcher37" alt="Solved.ac Profile Badge" />
+  </a>
+</div>
 
