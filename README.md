@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">🧩 Algorithm 🧩 </h3>
+<div align="center">
+  <a href="https://solved.ac/launcher37" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=launcher37" alt="Solved.ac Profile Badge" />
+  </a>
+</div>
