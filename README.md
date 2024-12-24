@@ -1,4 +1,3 @@
-# Hi there 👋  
 Welcome to **JOODON's GitHub**!  
 I'm a passionate **Back-End Developer** specializing in building scalable, efficient, and robust applications.
 
