@@ -20,3 +20,9 @@ Here are some ideas to get you started:
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=launcher37" alt="Solved.ac Profile Badge" />
   </a>
 </div>
+
+<h3 align="center">🌟 GitHub Stats 🌟 </h3>
+<div align="center">
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=JOODON&theme=gruvbox" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOODON&layout=compact&theme=gruvbox" />
+</div>
